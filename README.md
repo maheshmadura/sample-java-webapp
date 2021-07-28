@@ -1,4 +1,4 @@
-# Store Web application sample 
+# Store Web application sample - Hello World
 [![Build status](https://travis-ci.org/seedstack/store-webapp-sample.svg?branch=master)](https://travis-ci.org/seedstack/store-webapp-sample)
 
 A project demonstrating the following features of SeedStack:
